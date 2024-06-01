@@ -498,10 +498,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "grbr/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "printer-expasion.step",
       "svg": "",
       "vrml": ""
     },
